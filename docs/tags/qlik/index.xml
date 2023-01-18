@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qlik on ravasys</title>
+    <link>https://ravasys.com.br/tags/qlik/</link>
+    <description>Recent content in Qlik on ravasys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 17 Dec 2021 13:56:51 -0300</lastBuildDate><atom:link href="https://ravasys.com.br/tags/qlik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tecnologia</title>
+      <link>https://ravasys.com.br/tecnologia/</link>
+      <pubDate>Fri, 17 Dec 2021 13:56:51 -0300</pubDate>
+      
+      <guid>https://ravasys.com.br/tecnologia/</guid>
+      <description>Em constante aprendizado Entender o lado do negócio Saber escrever código e limitar tecnologias </description>
+    </item>
+    
+  </channel>
+</rss>
