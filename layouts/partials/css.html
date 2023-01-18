@@ -1,0 +1,23 @@
+<style>
+
+    html body {
+        font-family: '{{ .Site.Params.font }}', sans-serif;        
+    }
+
+    :root {        
+        --border-width: {{ if .Site.Params.showBorder | default false }} 5px {{ else }} 0 {{ end }};
+    }
+
+</style>
+
+
+{{ range .Site.Params.css }} <link rel="stylesheet" href="{{ . | absURL }}"> {{ end }}
+
+{{ if .Site.Params.highlight | default false }} <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ .Site.Params.highlightStyle | default "default" }}.min.css"> {{ end }}
+
+{{ $cssfont := resources.Get "css/Raleway.css" }}
+{{ $cssbootstrap := resources.Get "css/bootstrap.min.css" }}
+{{ $cssbootstrapicons := resources.Get "css/bootstrap-icons.css" }}
+{{ $cssmain := resources.Get "css/main.css" }}
+{{ $allcss := slice $cssfont $cssbootstrap $cssbootstrapicons $cssmain | resources.Concat "/css/r.css" | minify | fingerprint "sha512" }}
+<link rel="stylesheet" href="{{ $allcss.RelPermalink }}" integrity="{{ $allcss.Data.Integrity }}">

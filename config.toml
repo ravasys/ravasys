@@ -1,0 +1,56 @@
+baseURL = "https://ravasys.com.br/"
+languageCode = "pt-br"
+title = "ravasys"
+disableHugoGeneratorInject = true
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5    
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    page = "/:slug/"
+
+[params]
+    author = "ravasys"
+    description = "Serviços em Tecnologia"
+    githubUsername = "#"
+    principal = "#0031ff"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway"
+    highlight = false
+    highlightStyle = "default"
+    highlightLanguages = ["Go", "Haskell", "Kotlin", "Scala", "Swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "Página inicial"
+    weight = 1
+
+[[menu.main]]
+    url = "/sobre-nos/"
+    name = "Sobre nós"
+    weight = 2
+
+[[menu.main]]
+    url = "/tecnologia/"
+    name = "Tecnologia"
+    weight = 3
+
+[[menu.icon]]
+    url = "/fale-conosco/"
+    name = "bi bi-envelope"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/ravasys/"
+    name = "bi bi-github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/ravasys/"
+    name = "bi bi-twitter"
+    weight = 3

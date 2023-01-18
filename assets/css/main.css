@@ -1,0 +1,139 @@
+:root {
+    --rs-logo-b: #0420FC;
+    --rs-logo-e: #03B4FC;
+    --rs-bar: #ebedef;
+}
+.dark{
+      --bs-white:#000;
+      --bs-gray-dark: #f8f9fa;
+      --bs-light: #343a40;    
+      --rs-logo-b: var(--bs-gray-dark);
+      --rs-logo-e: var(--bs-gray);
+      --rs-bar: #343a40;
+  
+    }
+    .navbar-toggler{background-color: var(--bs-light) !important;}
+    .nav-link{color: var(--bs-gray-dark) !important;}
+
+html, body {
+    height: 100%;        
+}
+
+body {
+    padding-top: 15ex;
+    display: flex;
+    text-align: center;
+    flex-direction: column;  
+    background-color: var(--bs-white);  
+    color: var(--bs-gray-dark);
+}
+
+main {
+    margin: auto;
+    padding: 15px;
+    flex: 1 0 auto;
+    max-width: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.hello {
+    transform: translateY(5vh);
+}
+
+.hello > h1 {
+    color: var(--bs-gray-dark);
+    font-size: 5em;
+}
+
+.hello > h2 {
+    color: var(--bs-gray);
+    font-size: 3em;
+}
+
+.content {
+    padding-top: 50px;
+}
+
+
+
+a:link, a:visited {
+    color: var(--rs-logo-b);
+}
+
+a.icon:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--rs-logo-b) !important;
+}
+
+.copyright {
+    margin: 15px 0;
+}
+
+.paginator {
+    padding: 20px 0;
+}
+
+.paginator-icon {
+    padding: 0 50px;
+    font-size: 3em;
+}
+
+.item {
+    padding: 15px 0;
+}
+
+.item-tag {
+    background-color: var(--bs-dark);    
+}
+
+.link-tag, .link-tag:visited, .link-tag:hover {
+    color: var(--bs-white) !important;
+}
+
+.navbar {    
+    border-top: 1px solid var(--rs-bar);  
+   background-color: var(--bs-white);
+    border-bottom: 1px solid var(--rs-bar);      
+}
+
+.nav-link {
+    padding-right: 1em !important;
+}
+
+footer {
+    border-bottom: var(--border-width) solid var(--rs-bar);
+}
+
+.navbar-nav {
+    padding:5px;    
+}
+
+.navbar-nav>a {   
+    font-size: 2em;        
+}   
+.navbar-brand {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+@media screen and (min-width: 992px) {
+    .navbar-brand {        
+        border-right: 1px solid var(--rs-bar);
+    }
+    
+}
+@media screen and (max-width: 992px) {
+    .navbar-brand {        
+        padding: 10px 0 0 10px;
+
+    }
+    
+}
+
+

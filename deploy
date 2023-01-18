@@ -1,0 +1,3 @@
+hugo -D
+mv public docs
+rm -rf docs/index.xml
