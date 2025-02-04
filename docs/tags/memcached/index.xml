@@ -4,17 +4,16 @@
     <title>Memcached on ravasys</title>
     <link>https://ravasys.com.br/tags/memcached/</link>
     <description>Recent content in Memcached on ravasys</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 17 Dec 2021 13:56:51 -0300</lastBuildDate><atom:link href="https://ravasys.com.br/tags/memcached/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Feb 2025 13:49:56 -0300</lastBuildDate>
+    <atom:link href="https://ravasys.com.br/tags/memcached/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tecnologia</title>
       <link>https://ravasys.com.br/tecnologia/</link>
-      <pubDate>Fri, 17 Dec 2021 13:56:51 -0300</pubDate>
-      
+      <pubDate>Tue, 04 Feb 2025 13:49:56 -0300</pubDate>
       <guid>https://ravasys.com.br/tecnologia/</guid>
-      <description>Em constante aprendizado Entender o lado do negócio Saber escrever código e limitar tecnologias </description>
+      <description>&lt;h1 id=&#34;expertise-em-sistemas-legados-e-novas-tecnologias&#34;&gt;Expertise em Sistemas Legados e Novas Tecnologias&lt;/h1&gt;&#xA;&lt;p&gt;Somos uma &lt;strong&gt;empresa de tecnologia&lt;/strong&gt; com &lt;strong&gt;larga experiência&lt;/strong&gt; em administração de sistemas científicos, sistemas legados, com especialização em &lt;strong&gt;Tomcat&lt;/strong&gt;, &lt;strong&gt;JBoss 5.1.0.GA&lt;/strong&gt; e outras tecnologias mais antigas, além de estarmos sempre atualizados com &lt;strong&gt;novas tecnologias&lt;/strong&gt; que surgem no mercado.&lt;/p&gt;&#xA;&lt;p&gt;A nossa missão é proporcionar soluções robustas e escaláveis para os desafios atuais, ao mesmo tempo em que auxiliamos empresas na &lt;strong&gt;migração de sistemas legados&lt;/strong&gt; para arquiteturas mais modernas e eficientes.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
