@@ -1,3 +1,5 @@
 hugo -D
+rm -rf docs
 mv public docs
 rm -rf docs/index.xml
+echo "ravasys.com.br" > docs/CNAME
