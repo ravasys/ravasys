@@ -39,9 +39,6 @@ img {
     max-width: 100%;
 }
 
-.hello {
-    transform: translateY(5vh);
-}
 
 .hello > h1 {
     color: var(--bs-gray-dark);
@@ -54,7 +51,7 @@ img {
 }
 
 .content {
-    padding-top: 50px;
+    padding-top: 30px;
 }
 
 

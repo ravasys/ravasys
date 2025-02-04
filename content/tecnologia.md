@@ -2,36 +2,6 @@
 title: "Tecnologia"
 date: 2025-02-04T13:49:56-03:00
 draft: true
-tags:
-  - Java
-  - PHP
-  - Go
-  - PowerBI
-  - Qlik
-  - Javascript
-  - Node
-  - PHP
-  - Traefik
-  - Apache
-  - Nginx
-  - HAProxy
-  - React
-  - Flutter
-  - Dart
-  - Bash
-  - PostgreSQL
-  - MariaDB
-  - MySQL
-  - MongoDB
-  - Redis
-  - Memcached
-  - Apache Hop
-  - Redmine
-  - Git
-  - Haskell
-  - Kotlin
-  - Scala
-  - Swift
 ---
 
 # Expertise em Sistemas Legados e Novas Tecnologias
