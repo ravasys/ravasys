@@ -19,4 +19,10 @@ document.addEventListener("DOMContentLoaded", function(){
         document.getElementById('mode').classList.remove('bi-moon-fill');
         document.getElementById('mode').classList.add('bi-sun-fill');
       }
+      if (localStorage.getItem('mode') == undefined) {
+        document.body.classList.add('dark');
+          localStorage.setItem('mode', 'dark');
+          document.getElementById('mode').classList.remove('bi-moon-fill');
+          document.getElementById('mode').classList.add('bi-sun-fill');  
+      }
 });

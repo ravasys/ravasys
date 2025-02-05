@@ -44,8 +44,3 @@ enableRobotsTXT = true
     url = "/fale-conosco/"
     name = "bi bi-envelope"
     weight = 1
-
-[[menu.icon]]
-    url = "https://twitter.com/ravasys/"
-    name = "bi bi-twitter"
-    weight = 3
