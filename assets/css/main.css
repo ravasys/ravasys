@@ -20,7 +20,7 @@ html, body {
 }
 
 body {
-    padding-top: 5em;
+    padding-top: 7em;
     display: flex;
     text-align: center;
     flex-direction: column;  
@@ -49,6 +49,7 @@ img {
     color: var(--bs-gray);
     font-size: 3em;
 }
+
 
 a:link, a:visited {
     color: var(--rs-logo-b);
@@ -117,10 +118,6 @@ footer {
     .navbar-brand {        
         border-right: 1px solid var(--rs-bar);
     }
-    body {
-        padding-top: 7em;
-        
-    }
     
 }
 @media screen and (max-width: 992px) {
@@ -128,7 +125,8 @@ footer {
         padding: 10px 0 0 10px;
 
     }
-   
+    body {
+        padding-top: 5em;
 }
 
 

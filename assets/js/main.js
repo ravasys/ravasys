@@ -18,8 +18,7 @@ document.addEventListener("DOMContentLoaded", function(){
         document.body.classList.add(localStorage.getItem('mode'));
         document.getElementById('mode').classList.remove('bi-moon-fill');
         document.getElementById('mode').classList.add('bi-sun-fill');
-      }
-      if (localStorage.getItem('mode') == undefined) {
+      } else {
         document.body.classList.add('dark');
           localStorage.setItem('mode', 'dark');
           document.getElementById('mode').classList.remove('bi-moon-fill');
