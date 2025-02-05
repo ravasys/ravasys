@@ -1,98 +1,80 @@
 ---
 title: "Tecnologia"
-date: 2025-02-04T13:49:56-03:00
+date: 2025-02-05T08:49:56-03:00
 draft: true
 ---
 
-# Expertise em Sistemas Legados e Novas Tecnologias
+## Expertise em Sistemas Legados, Novas Tecnologias, Segurança da Informação e Proteção de Dados
 
-Somos uma **empresa de tecnologia** com **larga experiência** em administração de sistemas científicos, sistemas legados, com especialização em **Tomcat**, **JBoss 5.1.0.GA** e outras tecnologias mais antigas, além de estarmos sempre atualizados com **novas tecnologias** que surgem no mercado.
+Somos uma empresa de tecnologia com vasta experiência em administração de sistemas científicos, sistemas legados e novas tecnologias. Nossa especialização inclui servidores como Tomcat, JBoss, Node.js, etc, além da implementação de soluções modernas alinhadas às melhores práticas do mercado.
 
-A nossa missão é proporcionar soluções robustas e escaláveis para os desafios atuais, ao mesmo tempo em que auxiliamos empresas na **migração de sistemas legados** para arquiteturas mais modernas e eficientes.  
-
-
-## Nossa Expertise
-
-### Administração de Bases de Dados Científicas
-
-Com **12 anos de experiência** na administração de **bases de dados científicas**, nossa empresa tem se destacado como líder no fornecimento de soluções robustas e eficientes para **instituições de pesquisa**, **universidades** e **empresas** do setor científico. Ao longo dessa jornada, desenvolvemos uma profunda compreensão das necessidades específicas deste nicho, como a **integridade de dados**, a **segurança da informação** e o **desempenho em ambientes de grande volume de dados**.
-
-Nossos especialistas têm vasta experiência em diversos sistemas de gerenciamento de banco de dados (SGBDs), sendo capazes de lidar com desafios únicos encontrados em ambientes científicos, como dados sensíveis, alta disponibilidade e escalabilidade. Trabalhamos com **bases de dados complexas**, **otimização de consultas**, além de garantir que os dados estejam sempre atualizados, acessíveis e protegidos.
+Nosso compromisso vai além da modernização: seguimos rigorosos padrões de segurança da informação, com destaque para a **ISO/IEC 27001:2022** e a **Lei Geral de Proteção de Dados (LGPD)**, garantindo a proteção e integridade dos dados em todas as soluções que desenvolvemos.  
 
 
-#### Principais Áreas de Atuação
-
-##### Administração e Manutenção
-Gerenciamos bancos de dados científicos com foco em **performance**, **disponibilidade** e **integridade** dos dados.
-
-##### Migração de Dados
-Realizamos a migração de dados entre diferentes plataformas, garantindo a continuidade do trabalho de pesquisa e a preservação dos dados.
-
-##### Otimização de Performance
-Aplicamos técnicas avançadas para otimizar o desempenho de consultas e garantir que grandes volumes de dados sejam processados de forma eficiente.
-
-##### Segurança e Conformidade
-Implementamos políticas rigorosas de **segurança** e **conformidade** para proteger dados sensíveis, seguindo normas e regulamentos específicos do setor científico.
-
-Nossa longa trajetória nos permitiu construir um portfólio sólido e uma base de clientes satisfeitos, que confiam em nossa capacidade de administrar, otimizar e garantir a segurança de suas bases de dados científicas. Estamos prontos para enfrentar os desafios do futuro e continuar a oferecer soluções de ponta para o universo da pesquisa científica.  
+### **Nossa Missão**
+Oferecer soluções robustas, escaláveis e seguras, ajudando empresas a modernizar suas infraestruturas e migrar sistemas legados para arquiteturas mais eficientes, mantendo a conformidade com as normas de segurança e melhores práticas do setor.  
 
 
-### Sistemas Legados e Migração
-Com mais de X anos de experiência em projetos envolvendo **sistemas legados**, temos uma compreensão profunda dos desafios associados à **integração de tecnologias antigas** com novas arquiteturas. Alguns dos nossos serviços incluem:
+## **Nossa Expertise**
 
-- **Migração de JBoss 5.1.0.GA**: Sabemos os desafios de manter versões legadas do JBoss e oferecemos soluções para migrar essas aplicações de forma segura e eficiente, preservando a integridade dos dados e a funcionalidade dos sistemas.
-- **Migração de Tomcat e outros servidores**: Realizamos a transição de servidores antigos para plataformas mais escaláveis e com maior suporte de comunidade, como o **Tomcat** e outros servidores de aplicação, sempre priorizando a performance e a redução de custos operacionais.
-- **Refatoração de código legado**: Realizamos o processo de refatoração de sistemas legados, utilizando melhores práticas de desenvolvimento para garantir que os sistemas continuem atendendo às necessidades de negócio de forma ágil e segura.
-
-
-### Desenvolvimento com Novas Tecnologias
-Além de nossa forte experiência com sistemas legados, também estamos atentos às inovações tecnológicas que transformam o mercado. Trabalhamos com uma ampla gama de tecnologias modernas, incluindo:
-
-- **Microserviços**: Arquiteturas baseadas em microserviços para promover a escalabilidade, flexibilidade e manutenção simplificada.
-- **DevOps & CI/CD**: Implementação de pipelines de integração e entrega contínuas, utilizando ferramentas como **Docker**, **Kubernetes**, **Jenkins**, **GitLab CI**, e mais, para acelerar a entrega de software e melhorar a qualidade.
-- **Cloud**: Migração de sistemas para a **nuvem**, seja em ambientes como **AWS**, **Azure** ou **Google Cloud Platform**, aproveitando os benefícios de escalabilidade, segurança e custo-benefício.
-
-## Tecnologias Utilizadas
-
-Temos experiência e conhecimento em uma ampla gama de **linguagens**, **frameworks**, **bancos de dados** e **ferramentas de infraestrutura**, tanto em ambientes legados quanto modernos.
-
-### Tecnologias Legadas
-- **JBoss 5.1.0.GA**
-- **Tomcat**
-- **WebLogic**
-- **Oracle DB** (e outras soluções legadas)
-
-### Tecnologias Modernas
-- **Java**
-- **PHP**
-- **Go**
-- **Node.js**
-- **React**
-- **Flutter**
-- **Kotlin**
-- **PostgreSQL**
-- **MySQL**
-- **MongoDB**
-- **Redis**
-- **Kafka**
-
-## Serviços Oferecidos
-
-- **Consultoria em Arquitetura de Sistemas**: Oferecemos análise e design de sistemas para garantir que a solução seja escalável, segura e alinhada com as necessidades de negócio.
-- **Migração de Sistemas Legados**: Planejamos e executamos a migração de sistemas antigos para tecnologias mais modernas, sem perder dados ou funcionalidade.
-- **Desenvolvimento e Manutenção de Software**: Desenvolvemos sistemas completos e oferecemos serviços de manutenção e suporte contínuo para garantir que suas aplicações atendam às necessidades do seu negócio.
-- **Treinamento e Capacitação**: Treinamos sua equipe para que ela se torne mais eficiente com as tecnologias utilizadas, seja em sistemas legados ou novos frameworks.
-
-## Nossos Diferenciais
-
-- **Experiência Comprovada**: Anos de experiência com grandes empresas e sistemas legados, garantindo transições suaves e sem perda de dados.
-- **Foco em Resultados**: Trabalhamos para que nossas soluções atendam às suas necessidades de negócio e melhorem seus resultados operacionais.
-- **Inovação Contínua**: Não apenas modernizamos sua infraestrutura, mas também implementamos as tecnologias mais recentes para manter sua empresa competitiva no mercado.  
+### **Administração de Bases de Dados Científicas**
+Com 12 anos de experiência na gestão de bases de dados científicas, somos referência no suporte a instituições de pesquisa, universidades e empresas do setor. Nossa equipe domina desafios como:
+- **Integridade e Segurança dos Dados:** Implementamos rigorosas políticas de proteção e conformidade com **ISO/IEC 27001:2022** e **LGPD**.
+- **Alta Disponibilidade e Escalabilidade:** Trabalhamos com SGBDs robustos, garantindo performance e eficiência.
+- **Otimização de Consultas:** Aplicamos técnicas avançadas para lidar com grandes volumes de dados de forma ágil e eficiente.  
 
 
-## Como Podemos Ajudar
+### **Sistemas Legados e Migração**
+Nossa equipe tem profunda experiência em modernização de sistemas antigos, garantindo transições suaves e seguras. Oferecemos:
+- **Migração de JBoss e Tomcat** para plataformas mais modernas, mantendo a estabilidade e reduzindo custos operacionais.
+- **Refatoração de Código Legado**, aplicando boas práticas para aumentar a segurança e a escalabilidade.
+- **Adoção de Tecnologias Modernas**, garantindo compatibilidade e eficiência para seu ambiente.  
 
-Se sua empresa está lidando com sistemas legados, buscando migrar para uma solução mais moderna, ou até mesmo deseja integrar novas tecnologias em seus processos, estamos aqui para ajudar!
+### **Segurança da Informação, Conformidade com a ISO/IEC 27001:2022 e LGPD**
+Seguindo as diretrizes da **ISO/IEC 27001:2022** e da **Lei Geral de Proteção de Dados (LGPD)**, implementamos medidas rigorosas para garantir a segurança e a privacidade dos dados em todos os projetos. Isso inclui:
+- **Gestão de Riscos:** Identificação e mitigação de vulnerabilidades em sistemas e processos.
+- **Criptografia e Controle de Acesso:** Proteção contra acessos não autorizados e vazamentos de informações.
+- **Monitoramento Contínuo:** Implementação de auditorias e políticas de conformidade.
+- **Adequação à LGPD:** Implementação de políticas de governança de dados, garantindo transparência e conformidade com as exigências legais.  
 
-Entre em contato conosco e descubra como podemos transformar seus desafios em oportunidades de crescimento e inovação.
+### **Desenvolvimento com Novas Tecnologias**
+Nosso time acompanha as inovações tecnológicas para oferecer soluções modernas e eficientes:
+- **Microserviços:** Arquiteturas escaláveis e flexíveis para aplicações modernas.
+- **DevOps & CI/CD:** Automação e otimização de processos com Docker, Kubernetes, Jenkins e GitLab CI.
+- **Computação em Nuvem:** Soluções em AWS, Azure e Google Cloud para máxima performance e segurança.  
+
+
+## **Tecnologias Utilizadas**
+
+### **Tecnologias Legadas**
+- JBoss
+- Tomcat
+- WebLogic
+- Oracle DB  
+
+### **Tecnologias Modernas**
+- Java, PHP, Go, Node.js
+- React, Flutter, Kotlin
+- PostgreSQL, MySQL, MongoDB, Redis, Kafka
+- Docker, Kubernetes, Jenkins  
+
+
+## **Serviços Oferecidos**
+- **Consultoria em Arquitetura de Sistemas:** Soluções escaláveis e alinhadas com os objetivos do seu negócio.
+- **Migração de Sistemas Legados:** Atualização para novas tecnologias sem perda de funcionalidade.
+- **Desenvolvimento e Manutenção de Software:** Aplicações personalizadas e suporte contínuo.
+- **Treinamento e Capacitação:** Formação de equipes para uso eficiente de tecnologias antigas e novas.  
+
+
+## **Nossos Diferenciais**
+- **Segurança e Conformidade:** Implementação rigorosa da **ISO/IEC 27001:2022** e adequação total à **LGPD**.
+- **Experiência Comprovada:** Anos de atuação no mercado com clientes satisfeitos.
+- **Foco em Resultados:** Soluções eficazes e alinhadas com os desafios do seu negócio.
+- **Inovação Contínua:** Adoção das melhores práticas para garantir competitividade.  
+
+
+### **Como Podemos Ajudar?**
+Se sua empresa precisa modernizar sistemas, migrar para novas tecnologias ou reforçar a segurança e conformidade com a LGPD, estamos prontos para transformar seus desafios em oportunidades.
+
+Entre em contato e descubra como podemos levar sua infraestrutura de TI ao próximo nível!  
 
